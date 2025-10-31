@@ -1,0 +1,5 @@
+{
+  "name": "Calorie & Macros Tracker",
+  "description": "A modern, minimal app to track daily calories and macronutrients (protein, carbs, fats). It features meal logging, history tracking, saved meals with AI image editing, and theme customization.",
+  "requestFramePermissions": []
+}
